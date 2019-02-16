@@ -20,7 +20,7 @@ body {
 #name {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 48px;
-    margin-bottom: 0;
+    line-height: 100%;
 }
 
 #title {
@@ -50,7 +50,7 @@ body {
 
 #initials-text {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 17px;
+    font-size: 20px;
     line-height: 100%;
 }
 

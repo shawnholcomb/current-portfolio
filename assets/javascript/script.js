@@ -83,5 +83,7 @@ if ($(window).width() <= 1200) {
             git.classList.add('col-3');
             git.classList.remove('col-2');
         }
+
+        
     }
 }
