@@ -127,7 +127,10 @@ i {
     color: #edeae5;
 }
 
-.up-arrow {
+#up-arrow-drinkr,
+#up-arrow-tp,
+#up-arrow-nick,
+#up-arrow-marvel {
     display: none;
 }
 
