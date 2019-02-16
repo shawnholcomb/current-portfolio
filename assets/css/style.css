@@ -40,7 +40,7 @@ body {
 .sticky {
     background-color: #edeae5;
     position: fixed;
-    top: 0px;
+    top: 0;
     right: 10%;
     left: 10%;
     padding-top: 10px;
