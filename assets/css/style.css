@@ -33,9 +33,26 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
     margin-bottom: 25px;
+    line-height: 2;
+}
+
+#texas {
+    height: 35px;
+    width: 35px;
 }
 
 /* Contact Styling */
+
+#initials {
+    display: none;
+    
+}
+
+#initials-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    line-height: 100%;
+}
 
 .sticky {
     background-color: #edeae5;
@@ -43,7 +60,7 @@ body {
     top: 0;
     right: 10%;
     left: 10%;
-    padding-top: 10px;
+    padding: 10px 0 5px 0;
     z-index: 999;
   }
   
@@ -125,6 +142,7 @@ i {
 .overlay-button:hover {
     background: #026670;
     color: #edeae5;
+    transition: .3s;
 }
 
 #up-arrow-drinkr,
